@@ -1,4 +1,3 @@
-<Creator> (RITTHIKRAI KIRIKAN)
 # OpenAI Python API library
 
 <!-- prettier-ignore -->
