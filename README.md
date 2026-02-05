@@ -1,5 +1,5 @@
 # OpenAI Python API library
-
+<Creator> ฤทธิไกร กิริกัน
 <!-- prettier-ignore -->
 [![PyPI version](https://img.shields.io/pypi/v/openai.svg?label=pypi%20(stable))](https://pypi.org/project/openai/)
 
