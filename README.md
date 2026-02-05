@@ -1,5 +1,6 @@
 # OpenAI Python API library
-
+creator： ฤทธิไกร กิริกัน
+(gingmasterangel@gmail.com)
 <!-- prettier-ignore -->
 [![PyPI version](https://img.shields.io/pypi/v/openai.svg?label=pypi%20(stable))](https://pypi.org/project/openai/)
 
